@@ -840,9 +840,9 @@ main {
 }
 
 .timeline-list span {
-  color: var(--vegas-gold);
-  font-weight: var(--fw-400);
-  line-height: 1.6;
+  color: var(--light-gray);
+  font-weight: var(--fw-500);
+  line-height: 2;
 }
 
 .timeline-item:not(:last-child)::before {
